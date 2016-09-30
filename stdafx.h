@@ -18,3 +18,6 @@
 #include <string>
 #include <algorithm>
 #include <cctype>
+
+#include <ctime>
+#include <cstdlib>
